@@ -1,0 +1,61 @@
+﻿빌드 시작: 2016-11-18 오전 2:32:46
+     1>2 노드의 "E:\설프B\Project 2\[Project 2] 2015104220_정종윤\[Project 2] 2015104220_정종윤\[Project 2] 2015104220_정종윤.vcxproj" 프로젝트(Build 대상)입니다.
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt App.cpp BaseCoffee.cpp Coffee.cpp CoffeeFactory.cpp CounterFacade.cpp DiscountAlgorithm.cpp DiscountCoupon.cpp DiscountDrinkInStore.cpp DiscountTakeOut.cpp IngredientsDecorator.cpp Main.cpp ManagerFacade.cpp MilkDecorator.cpp MochaDecorator.cpp OrderTransactionManager.cpp ProductPriceCalculator.cpp SaleManager.cpp ShotDecorator.cpp StockManager.cpp Transaction.cpp WhipDecorator.cpp
+         WhipDecorator.cpp
+         Transaction.cpp
+     1>e:\설프b\project 2\[project 2] 2015104220_정종윤\[project 2] 2015104220_정종윤\transaction.cpp(17): warning C4018: '<' : signed 또는 unsigned가 일치하지 않습니다.
+         StockManager.cpp
+     1>e:\설프b\project 2\[project 2] 2015104220_정종윤\[project 2] 2015104220_정종윤\stockmanager.cpp(19): warning C4018: '<' : signed 또는 unsigned가 일치하지 않습니다.
+     1>e:\설프b\project 2\[project 2] 2015104220_정종윤\[project 2] 2015104220_정종윤\stockmanager.cpp(49): warning C4018: '<' : signed 또는 unsigned가 일치하지 않습니다.
+         ShotDecorator.cpp
+         SaleManager.cpp
+         ProductPriceCalculator.cpp
+         OrderTransactionManager.cpp
+     1>e:\설프b\project 2\[project 2] 2015104220_정종윤\[project 2] 2015104220_정종윤\ordertransactionmanager.cpp(42): warning C4018: '<' : signed 또는 unsigned가 일치하지 않습니다.
+         MochaDecorator.cpp
+         MilkDecorator.cpp
+         ManagerFacade.cpp
+         Main.cpp
+         IngredientsDecorator.cpp
+         DiscountTakeOut.cpp
+     1>e:\설프b\project 2\[project 2] 2015104220_정종윤\[project 2] 2015104220_정종윤\discounttakeout.cpp(15): warning C4244: 'return' : 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+         DiscountDrinkInStore.cpp
+         DiscountCoupon.cpp
+         DiscountAlgorithm.cpp
+         CounterFacade.cpp
+         CoffeeFactory.cpp
+         Coffee.cpp
+         BaseCoffee.cpp
+         코드를 생성하고 있습니다...
+         컴파일하고 있습니다...
+         App.cpp
+         코드를 생성하고 있습니다...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\설프B\Project 2\[Project 2] 2015104220_정종윤\Debug\[Project 2] 2015104220_정종윤.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\설프B\Project 2\[Project 2] 2015104220_정종윤\Debug\[Project 2] 2015104220_정종윤.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\설프B\Project 2\[Project 2] 2015104220_정종윤\Debug\[Project 2] 2015104220_정종윤.lib" /MACHINE:X86 Debug\App.obj
+         Debug\BaseCoffee.obj
+         Debug\Coffee.obj
+         Debug\CoffeeFactory.obj
+         Debug\CounterFacade.obj
+         Debug\DiscountAlgorithm.obj
+         Debug\DiscountCoupon.obj
+         Debug\DiscountDrinkInStore.obj
+         Debug\DiscountTakeOut.obj
+         Debug\IngredientsDecorator.obj
+         Debug\Main.obj
+         Debug\ManagerFacade.obj
+         Debug\MilkDecorator.obj
+         Debug\MochaDecorator.obj
+         Debug\OrderTransactionManager.obj
+         Debug\ProductPriceCalculator.obj
+         Debug\SaleManager.obj
+         Debug\ShotDecorator.obj
+         Debug\StockManager.obj
+         Debug\Transaction.obj
+         Debug\WhipDecorator.obj
+         [Project 2] 2015104220_정종윤.vcxproj -> E:\설프B\Project 2\[Project 2] 2015104220_정종윤\Debug\[Project 2] 2015104220_정종윤.exe
+     1>"E:\설프B\Project 2\[Project 2] 2015104220_정종윤\[Project 2] 2015104220_정종윤\[Project 2] 2015104220_정종윤.vcxproj" 프로젝트를 빌드했습니다(Build 대상).
+
+빌드했습니다.
+
+경과 시간: 00:00:16.16
